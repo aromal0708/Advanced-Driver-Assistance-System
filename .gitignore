@@ -1,3 +1,4 @@
 venv/
 yolov5s.pt
 yolov5/
+datasets/
