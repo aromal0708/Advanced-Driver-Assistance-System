@@ -35,7 +35,7 @@ Ensure that you have the following installed:
    git clone https://github.com/aromal0708/Advanced-Driver-Assistance-System.git
    cd Advanced-Driver-Assistance-System
 
-2. **Train command :Traffic_sign**
+2. **Run Traffic_sign**
 
     ```bash
-    python train.py --img 640 --batch 16 --epochs 50 --data datasets/traffic_sign/data.yaml --weights yolov5s.pt --device 0
+    python src/main.py
