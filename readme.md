@@ -39,3 +39,8 @@ Ensure that you have the following installed:
 
     ```bash
     python src/main.py
+
+2. **Run collision_warning.py**
+
+    ```bash
+    python src/scripts/collision_warning.py
